@@ -628,6 +628,14 @@ prctl-pac-enabled-keys-success-Xraw
 prctl-pac-enabled-keys-success-Xverbose
 prctl-pac-reset-keys
 prctl-pdeathsig
+prctl-sched-core
+prctl-sched-core-Xabbrev
+prctl-sched-core-Xraw
+prctl-sched-core-Xverbose
+prctl-sched-core--pidns-translation
+prctl-sched-core--pidns-translation-Xabbrev
+prctl-sched-core--pidns-translation-Xraw
+prctl-sched-core--pidns-translation-Xverbose
 prctl-seccomp-filter-v
 prctl-seccomp-strict
 prctl-securebits
